@@ -4,7 +4,7 @@ welcome to linuxworld.pvt.ltd training of HYBRID MULTI CLOUD
 <pre>
 <?php
 
-print `ifconfig`
+print `ifconfig`;
 
 ?>
 </pre>
